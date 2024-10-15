@@ -1,4 +1,4 @@
-# Nodte Template Repo
+# Node Template Repo
 
 This repo should provide a stable template for practicing learning JS as a programming language and just 🏃‍♂️ running code from the terminal via Node.
 
