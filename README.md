@@ -1,6 +1,6 @@
-# HTML-Tailwind-JS Template Repo
+# Node Template Repo
 
-This repo should provide a stable template for working with HTML, TailwindCSS, and JavaScript. With the provided VS Code Settings and Extensions, all major linting and formatting should be handled automatically, including Tailwind class formatting 🤞🏾.
+This repo should provide a stable template for practicing learning JS as a programming language and just 🏃‍♂️ running code from the terminal via Node.
 
 ## Getting Started
 

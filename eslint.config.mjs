@@ -45,7 +45,7 @@ export default [
       "no-useless-catch": "error",
       "no-useless-return": "error",
       "no-template-curly-in-string": "error",
-      "no-console": ["warn", { allow: ["warn", "error"] }],
+      "no-console": ["warn", { allow: ["warn", "error", "info"] }],
       "no-unused-vars": ["error", { argsIgnorePattern: "^_" }],
     },
   },
